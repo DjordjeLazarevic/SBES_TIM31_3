@@ -15,7 +15,7 @@
   
   # Zadatak
   
-                        Lakši projektni zadatak 3 
+                                                     Lakši projektni zadatak 3 
 
 Potrebno je realizovati sistem za bankarstvo.
 
