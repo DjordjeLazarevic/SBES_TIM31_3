@@ -1,0 +1,7 @@
+C:\Users\Nebojsa Vasic\Desktop\Banka\Service\bin\Debug\Service.exe.config
+C:\Users\Nebojsa Vasic\Desktop\Banka\Service\bin\Debug\Service.exe
+C:\Users\Nebojsa Vasic\Desktop\Banka\Service\bin\Debug\Service.pdb
+C:\Users\Nebojsa Vasic\Desktop\Banka\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\Nebojsa Vasic\Desktop\Banka\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Nebojsa Vasic\Desktop\Banka\Service\obj\Debug\Service.exe
+C:\Users\Nebojsa Vasic\Desktop\Banka\Service\obj\Debug\Service.pdb
